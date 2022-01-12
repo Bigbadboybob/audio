@@ -11,5 +11,9 @@
   "type": "module",
   "dependencies": {
     "audic": "^3.0.0"
+  },
+  "private": true,
+  "publishConfig": {
+    "registry": "https://github.com/Bigbadboybob/audio.git"
   }
 }
